@@ -85,7 +85,7 @@ Row Level Security is used to protect ticket and user data according to the auth
 
 The interface follows a centralized design system defined in:
 
-[`DESIGN_1_.md`](./DESIGN.md)
+[`DESIGN.md`](./DESIGN.md)
 
 ### Main Design Principles
 
